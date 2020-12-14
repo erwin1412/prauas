@@ -1,0 +1,10 @@
+F:\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+F:\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+F:\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+F:\New folder\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
